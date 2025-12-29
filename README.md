@@ -13,7 +13,7 @@ This project involved acquiring and analysing optical absorption spectra of mole
 - Performed numerical fitting to determine spectroscopic parameters and associated uncertainties.
 - Implemented and visualised a Morse potential model to describe the excited electronic state.
 - Generated publication-quality figures comparing experimental data, fitted models, and reference values.
-- Structured the analysis in clear, modular Jupyter notebook suitable for reuse and inspection.
+- Structured the analysis in a clear, modular Jupyter notebook suitable for reuse and inspection.
 
 ## Technical focus
 - **Programming & analysis:** Python, NumPy, SciPy
@@ -32,7 +32,7 @@ This project involved acquiring and analysing optical absorption spectra of mole
 - `README.md` – Project overview and documentation
 
 ## Notes
-The repository is designed as a **portfolio example**, highlighting scientific programming, data analysis, and reproducible workflows rather than the theoretical derivation behind the experiment.
+The repository serves as a portfolio example, highlighting scientific programming, data analysis, and reproducible workflows rather than the theoretical derivation behind the experiment.
 
 All data acquisition and analysis code used in the report PDF is available in the accompanying `.ipynb` Python notebook.  
 Report submitted as part of assessed coursework.
